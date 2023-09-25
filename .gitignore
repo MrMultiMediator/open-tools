@@ -1,0 +1,4 @@
+dist
+__pycache__
+src/vid_cut_MrMultiMediator.egg-info
+*mp4
