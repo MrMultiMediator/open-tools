@@ -3,8 +3,8 @@ Usage:
     vidcut (--in=<in_file>) (--out=<out_file>) [--maintain|--subtractive] (--start=<start_t> --end=<end_t>)...
 """
 from docopt import docopt
-from get_video_duration import get_video_duration, convert_to_seconds
-from build_ffmpeg import build_ffmpeg_cmd
+from vid_cut.get_video_duration import get_video_duration, convert_to_seconds
+from vid_cut.build_ffmpeg import build_ffmpeg_cmd
 
 arguments = docopt(__doc__, version='Video cut 0.1.0')
 
