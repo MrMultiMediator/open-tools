@@ -51,6 +51,14 @@ def get_video_duration(filename):
 
     return convert_to_seconds(dur_string)
 
+def gvd():
+    video_duration = get_video_duration(sys.argv[1])
+    print(f"The video duration is {video_duration} seconds")
+
+def cts():
+    seconds = convert_to_seconds(sys.argv[1])
+    print(f"{seconds} seconds")
+
 if __name__ == '__main__':
     if sys.argv[1].lower() == 'file':
         duration = get_video_duration(sys.argv[2])
