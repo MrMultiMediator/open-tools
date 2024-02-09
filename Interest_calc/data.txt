@@ -1,0 +1,13 @@
+principle    interest   years  continuous investment   compounding
+5000         3.0        30          0.0                 daily
+5000         6.0        30          0.0                 daily
+5000         9.0        30          0.0                 daily
+5000         3.0        30          0.0                 monthly
+5000         6.0        30          0.0                 monthly
+5000         9.0        30          0.0                 monthly
+5000         3.0        30          0.0                 annually
+5000         6.0        30          0.0                 annually
+5000         9.0        30          0.0                 annually
+5000         3.0        30        100.0                 monthly
+5000         6.0        30        100.0                 monthly
+5000         9.0        30        100.0                 monthly
