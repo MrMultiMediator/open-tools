@@ -9,7 +9,7 @@ def running_int(principle,interest,years,cinv,compound):
 
         counter += 1
 
-    print(str(principle)+'  '+str(interest)+'  '+str(years)+'  '+str(compound)+'  '+str(cinv)+'  '+str(amount)+'\n')
+    print(str(principle)+'  '+str(interest)+'  '+str(years)+'  '+str(compound)+'  '+str(cinv)+'  '+str(amount))
 
 if __name__ == '__main__':
     #Read the input file. Each line contains 5 variables: principle, interest rate, number of years, continuous, monthly

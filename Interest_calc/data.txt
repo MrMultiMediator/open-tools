@@ -11,3 +11,15 @@ principle    interest   years  continuous investment   compounding
 5000         3.0        30        100.0                 monthly
 5000         6.0        30        100.0                 monthly
 5000         9.0        30        100.0                 monthly
+30000        3.0        20        600.0                 monthly
+30000        6.0        20        600.0                 monthly
+30000        9.0        20        600.0                 monthly
+30000        3.0        20        450.0                 monthly
+30000        6.0        20        450.0                 monthly
+30000        9.0        20        450.0                 monthly
+30000        3.0        30        600.0                 monthly
+30000        6.0        30        600.0                 monthly
+30000        9.0        30        600.0                 monthly
+30000        3.0        30        450.0                 monthly
+30000        6.0        30        450.0                 monthly
+30000        9.0        30        450.0                 monthly
